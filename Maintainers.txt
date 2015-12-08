@@ -12,6 +12,7 @@ GOOGLE
 ========
 
 * Moto Nexus 6 (shamu) ==> Jerome Genevrois
+* Asus Nexus 7 (flo) ==> Jerome Genevrois
 
 ========
 LG
@@ -26,6 +27,25 @@ MOTOROLA
 * Moto G 2013 (falcon) ==> Benoit Grain
 * Moto G 2014 (titan) ==> Vatsal Koradia
 * Moto G 2014 LTE (thea) ==> Cristiano Matos
+
+========
+Oneplus
+========
+
+* Oneplus One (bacon) ==> Jerome Genevrois
+
+========
+OPPO
+========
+
+* Oppo Find 5 ==> Jerome Genevrois
+* Oppo Find 7 ==> Jerome Genevrois
+
+========
+Samsung
+========
+
+* Galaxy S4 International (jfltexx) ==> Jerome Genevrois
 
 ========
 SONY
