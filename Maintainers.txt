@@ -7,21 +7,23 @@ This is crDroid maintainers list .... roms provided
 by other people are not considered as official.
 ===================================================
 
-==========
+
+========
 GOOGLE
-==========
+========
 
 * Moto Nexus 6 (shamu) ==> Jerome Genevrois
+* Asus Nexus 7 (flo) ==> Jerome Genevrois
 
-==========
+========
 LG
-==========
+========
 
 * Lg G3 (d850-d851-d852-d855) ==> Hildo Boerboom
 
-==========
+========
 MOTOROLA
-==========
+========
 
 * Moto E 2014 (condor) ==> Vatsal Koradia
 * Moto E 2015 (otus) ==> Vatsal Koradia
@@ -30,8 +32,28 @@ MOTOROLA
 * Moto G 2014 (titan) ==> Vatsal Koradia
 * Moto G 2014 LTE (thea) ==> Cristiano Matos
 
-==========
+========
+Oneplus
+========
+
+* Oneplus One (bacon) ==> Jerome Genevrois
+
+========
+OPPO
+========
+
+* Oppo Find 5 ==> Jerome Genevrois
+* Oppo Find 7 ==> Jerome Genevrois
+
+========
+Samsung
+========
+
+* Galaxy S4 International (jfltexx) ==> Jerome Genevrois
+
+========
 SONY
-==========
+========
 
 * Sony Xperia Z3 (leo) ==> David Viteri
+
