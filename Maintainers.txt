@@ -15,6 +15,7 @@ GOOGLE
 * Nexus 5 (hammerhead) ==> Hildo Boerboom
 * Nexus 5x (bullhead) ==> Hildo Boerboom
 * Nexus 6 (shamu) ==> Jerome Genevrois
+* Nexus 7 (flo & deb) ==> Jerome Genevrois
 
 ==========
 HTC
@@ -42,6 +43,19 @@ MOTOROLA
 * Moto G 2014 (titan) ==> Vatsal Koradia
 * Moto G 2014 LTE (thea) ==> Cristiano Matos
 * Moto X 2014 (victara) ==> Benoit Grain
+
+==========
+ONEPLUS
+==========
+
+* ONEPLUS ONE (bacon) ==> Jerome Genevrois
+
+==========
+OPPO
+==========
+
+* Oppo Find5 ==> Jerome Genevrois
+* Oppo Find7 ==> Jerome Genevrois
 
 ==========
 SAMSUNG
